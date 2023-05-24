@@ -2,7 +2,7 @@ import smtplib
 import imghdr
 from email.message import EmailMessage
 
-PASSWORD = 'napravi pass'
+PASSWORD = 'yyklznsigxwsyjeq'
 SENDER = 'mrkic78@gmail.com'
 RECEIVER = 'mrkic78@gmail.com'
 
